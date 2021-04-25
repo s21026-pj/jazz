@@ -1,0 +1,11 @@
+my:
+  custom:
+    property: Hello from application properties
+    random: Random text
+  radom: Radom
+
+---
+spring:
+  profiles:
+    active: jaz
+  
